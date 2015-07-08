@@ -4,5 +4,6 @@
     <string name="app_name">GDP</string>
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
+    <string name="title_activity_card_view">CardViewActivity</string>
 
 </resources>

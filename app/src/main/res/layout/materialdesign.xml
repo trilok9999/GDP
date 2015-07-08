@@ -6,7 +6,7 @@
         android:background="@color/ColorPrimary"
         android:elevation="4dp"
 
-        >
+    android:id="@+id/materialDesign">
 
     </android.support.v7.widget.Toolbar>
 
